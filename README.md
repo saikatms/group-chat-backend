@@ -24,8 +24,8 @@ To Run the project on local system follow the simple steps:
 clone this project on your local system
 
 ```bash
-  git clone https://github.com/saikatms/group-chat-app.git
-  cd group-chat-app
+  git clone https://github.com/saikatms/group-chat-backend.git
+  cd group-chat-backend
 ```
 
 ### Step-2 Installing Dependency
@@ -34,7 +34,7 @@ Installing Dependency for Server
 
 ```bash
   npm i -g nodemon
-  npm i 
+  npm i
 ```
 
 ### Step-3 Adding Environment Variables
@@ -56,6 +56,7 @@ start the Backend server by
 ```bash
   npm start
 ```
+
 ## Feedback
 
 If you have any feedback or Suggestion, please reach out to us at saikatm1997@gmail.com
